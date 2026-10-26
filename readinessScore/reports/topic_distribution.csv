@@ -1,0 +1,177 @@
+topic,problem_count
+Array,2273
+String,895
+Hash Table,843
+Math,710
+Dynamic Programming,684
+Sorting,540
+Greedy,483
+Binary Search,356
+Depth-First Search,349
+Database,310
+Bit Manipulation,297
+Matrix,285
+Prefix Sum,277
+Tree,270
+Two Pointers,263
+Breadth-First Search,260
+Heap (Priority Queue),222
+Simulation,218
+Counting,215
+Graph Theory,190
+Stack,182
+Binary Tree,181
+Sliding Window,175
+Enumeration,163
+Design,134
+Backtracking,114
+Number Theory,105
+Union-Find,98
+Segment Tree,87
+Linked List,82
+Ordered Set,81
+Monotonic Stack,76
+Divide and Conquer,71
+Combinatorics,65
+Trie,61
+Queue,58
+Bitmask,56
+Binary Indexed Tree,54
+Recursion,51
+Hash Function,47
+Geometry,46
+Memoization,44
+Shortest Path,43
+Binary Search Tree,43
+Topological Sort,40
+String Matching,37
+Rolling Hash,33
+DP on Trees,31
+Game Theory,30
+Monotonic Queue,26
+Interactive,25
+Greatest Common Divisor,25
+Euclidean Algorithm,24
+Data Stream,24
+Brainteaser,22
+Directed Acyclic Graph,17
+Knapsack Problem,17
+Merge Sort,17
+Dijkstra's Algorithm,16
+Minimax,16
+Bracket Sequences,15
+Doubly-Linked List,15
+Prime Factorization,14
+Binary Lifting,12
+Zero-Sum Game,12
+Longest Increasing Subsequence,12
+Randomized,12
+Lowest Common Ancestor,11
+Counting Sort,11
+Z Algorithm,11
+Sieve Theory,11
+Fermat's Little Theorem,10
+Knuth–Morris–Pratt Algorithm,10
+Bipartite Graph,10
+Primality Test,10
+Iterator,9
+Suffix Array,9
+Concurrency,9
+Polygons,8
+0-1 Knapsack,8
+Sweep Line,8
+Quickselect,8
+Quicksort,7
+Bidirectional Search,7
+Probability and Statistics,7
+Flow Network,7
+Prime Number Sieve,7
+Least Common Multiple,7
+Boyer–Moore String-Search Algorithm,6
+Floyd's Cycle Finding Algorithm,6
+Treap,6
+Bucket Sort,6
+Matching (Graph),6
+Longest Common Subsequence,6
+Minimum Spanning Tree,6
+Sqrt Decomposition,6
+Cartesian Tree,5
+Heuristic Search,5
+Graph Coloring,5
+Tarjan's SCC Algorithm,5
+Complete Knapsack,5
+Impartial Game,5
+Pigeonhole Principle,5
+Successive Shortest Path Algorithm,5
+A* Search,5
+Kosaraju's Algorithm,5
+Boyer–Moore Majority Vote Algorithm,4
+Meet in the Middle,4
+Hungarian Algorithm,4
+Minimum-Cost Flow,4
+Suffix Automaton,4
+Bubble Sort,4
+Suffix Tree,4
+Nim Game,4
+Shell,4
+Reservoir Sampling,4
+Sprague–Grundy Theorem,4
+Aho–Corasick Algorithm,4
+Manacher,3
+Algorithm X,3
+Dinic's Algorithm,3
+Push-Relabel Algorithm,3
+Kruskal's Algorithm,3
+Borůvka's Algorithm,3
+Prim's Algorithm,3
+Eulerian Path,3
+Linear Algebra,3
+Radix Sort,3
+Eulerian Circuit,3
+Inclusion-Exclusion Principle,3
+MPM Algorithm,3
+Edmonds–Karp Algorithm,3
+Range Minimum/Maximum Query,2
+Nearest Pair of Points,2
+Strongly Connected Component,2
+Brute-Force Search,2
+Ternary Search,2
+Mixed Knapsack,2
+Rejection Sampling,2
+Floyd–Warshall Algorithm,2
+Bézout's Lemma,2
+Extended Euclidean Algorithm,2
+Bellman–Ford Algorithm,2
+Semi-Eulerian Graph,2
+Multiple Knapsack,2
+Maximum Flow,2
+Sort,2
+Maximum Matching,2
+0-1 BFS,2
+Perfect Matching,2
+Hamiltonian Path,2
+Tournament Sort,1
+Newton's Method,1
+Dancing Links,1
+Euler's Totient Function,1
+Euler's Theorem,1
+Timsort,1
+Eulerian Graph,1
+Convex Hull,1
+K-D Tree,1
+Triangulation,1
+Lexicographically Minimal String Rotation,1
+Planar Graph,1
+Lyndon Factorization,1
+Bridge (Graph),1
+Biconnected Component,1
+Persistent Data Structure,1
+Minimum Cut,1
+Articulation Point,1
+Sparse Table,1
+Minimum Enclosing Circle,1
+Splay Tree,1
+Palindromic Tree,1
+K Shortest Path,1
+Li Chao Tree,1
+Heap,1
