@@ -1,0 +1,72 @@
+{
+  "n_rows": 3296,
+  "n_cols": 13,
+  "columns": [
+    "titleSlug",
+    "title",
+    "difficulty",
+    "text",
+    "text_main",
+    "hints_text",
+    "code_sig",
+    "example_shape",
+    "max_n_bucket",
+    "tags",
+    "similar_slugs",
+    "n_hints",
+    "max_n"
+  ],
+  "difficulty_counts": {
+    "Easy": 842,
+    "Medium": 1666,
+    "Hard": 788
+  },
+  "difficulty_pct": {
+    "Easy": 25.55,
+    "Medium": 50.55,
+    "Hard": 23.91
+  },
+  "n_unique_tags": 173,
+  "top_tags": {
+    "Array": 1947,
+    "String": 772,
+    "Hash Table": 715,
+    "Math": 619,
+    "Dynamic Programming": 600,
+    "Sorting": 465,
+    "Greedy": 434,
+    "Binary Search": 306,
+    "Depth-First Search": 265,
+    "Bit Manipulation": 264,
+    "Prefix Sum": 249,
+    "Matrix": 240,
+    "Two Pointers": 221,
+    "Breadth-First Search": 204,
+    "Tree": 201,
+    "Simulation": 200,
+    "Counting": 191,
+    "Heap (Priority Queue)": 186,
+    "Enumeration": 156,
+    "Graph Theory": 152
+  },
+  "tags_per_problem": {
+    "mean": 3.285,
+    "median": 3,
+    "max": 15
+  },
+  "missing": {
+    "titleSlug": 0,
+    "title": 0,
+    "difficulty": 0,
+    "text": 0,
+    "text_main": 0,
+    "hints_text": 0,
+    "code_sig": 0,
+    "example_shape": 0,
+    "max_n_bucket": 0,
+    "n_hints": 0,
+    "tags": 76,
+    "max_n": 471,
+    "similar_slugs": 1380
+  }
+}

@@ -60,7 +60,6 @@ def parse_tags(tags):
         return []
     return [t["name"] for t in tags if isinstance(t, dict) and t.get("name")]
 
-
 def parse_similar(value):
     if isinstance(value, str) and value.strip():
         try:

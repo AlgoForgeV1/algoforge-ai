@@ -17,9 +17,12 @@ const statusSchema = z
   .string()
   .trim()
   .transform((raw) => raw.toUpperCase().replace(/\s+/g, "_"))
-  .refine((s): s is SubmissionStatus => (VALID_STATUSES as string[]).includes(s), {
-    message: `status must be one of: ${VALID_STATUSES.join(", ")}`,
-  });
+  .refine(
+    (s): s is SubmissionStatus => (VALID_STATUSES as string[]).includes(s),
+    {
+      message: `status must be one of: ${VALID_STATUSES.join(", ")}`,
+    },
+  );
 
 const historyEntrySchema = z.object({
   slug: z
